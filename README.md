@@ -1,2 +1,2 @@
 # Kotlin
-This app for android
+This app for android - allows adding notes
